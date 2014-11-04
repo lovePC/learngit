@@ -1,2 +1,2 @@
 git is a version
-git
+git is a new tool
